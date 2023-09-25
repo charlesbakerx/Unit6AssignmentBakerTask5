@@ -1,0 +1,8 @@
+// Built-in sort and reverse function to get DESC
+
+Start time for run 1: 0.000109, End time for run 1: 0.000955, Run time: 0.000846
+Start time for run 2: 0.001072, End time for run 2: 0.001731, Run time: 0.000659
+Start time for run 3: 0.001782, End time for run 3: 0.002412, Run time: 0.000630
+
+// Above is my test run
+
